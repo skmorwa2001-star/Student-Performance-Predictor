@@ -135,8 +135,8 @@ st.divider()
 st.subheader("🤖 Model Information")
 
 st.write("**Model :** Decision Tree Regressor")
-st.write("**R^2 Scor e:**0.8841")
-st.write("**MAE :**0.9933")
-st.write("**RMSE :**1.5726")
+st.write("**R^2 Score:** 0.8841")
+st.write("**MAE :** 0.9933")
+st.write("**RMSE :** 1.5726")
 
 st.caption("The model predicts the final grade (G3) on a 0-20 scale.")
