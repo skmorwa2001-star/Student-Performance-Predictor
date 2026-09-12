@@ -528,6 +528,7 @@ To reproduce the reported results:
 B.Tech --- Artificial Intelligence
 
 **Project:** Student Performance Predictor
+**Project Link:** https://student-performance-predictor-s.streamlit.app/
 
 ------------------------------------------------------------------------
 
